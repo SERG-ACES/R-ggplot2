@@ -1,2 +1,2 @@
-# TRIAL-DoubleSeven
-Happy Double Seven~
+# R-ggplot2 
+Plot academic figures with ggplot2 in R~
